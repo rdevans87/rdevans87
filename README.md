@@ -1,11 +1,20 @@
-### Hi there 👋
+# Hi there! ![image](https://user-images.githubusercontent.com/74195719/117839464-3ebf1900-b249-11eb-8ee9-8d2832d44e64.png)
+## Welcome to my GitHub Repository!
+
+
+### "I know what you're thinking, 'cause right now I'm thinking the same thing. Actually, I've been thinking it ever since I got here: Why oh why didn't I take the [BLUE](https://www.imdb.com/title/tt0133093/?ref_=ttqt_qt_tt) pill?" 
+
+
+
 
 <!--
 **rdevans87/rdevans87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
