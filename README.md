@@ -6,7 +6,7 @@
 
 # ![icons8-agent_smith](https://user-images.githubusercontent.com/74195719/117968838-a2525080-b2f4-11eb-820d-3a714974d9e0.png) About Me ![icons8-neo](https://user-images.githubusercontent.com/74195719/117961754-78952b80-b2ec-11eb-89fa-ede9e752d529.png)                              
 
-Screenwriter turned <i>Spaghetti</i> Coder exploring the wide world of web development. I'm feeling a lot like how I would imagine `Neo` might have felt right after he shoved that `RED`pill down his throat. I've barely even begun to scratch the surface of all there is to know about web development, but I intend to bring the same amount of passion and creativity to programming as I do screenwriting. 
+Screenwriter turned <i>Spaghetti</i> Coder exploring the wide world of web development. I'm feeling a lot like how I would imagine `Neo` might have felt right after he shoved that `RED` pill down his throat. I've barely even begun to scratch the surface of all there is to know about web development, but I intend to bring the same amount of passion and creativity to programming as I do screenwriting. 
 
 Please continue to check back periodically as I continue to improve my skills and expand my respository!
 
