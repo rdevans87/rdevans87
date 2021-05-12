@@ -43,4 +43,5 @@ Check out my live site on GitHub pages: [My Professional Portfolio](https://rdev
 
 
 
-### ![icons8-oracle](https://user-images.githubusercontent.com/74195719/117966552-07f10d80-b2f2-11eb-888f-3b1d07052116.png) Thanks for stopping by! ![icons8-cookies](https://user-images.githubusercontent.com/74195719/118022308-3b4f8e80-b32a-11eb-95e2-db740b22fce9.png)
+### ![icons8-oracle](https://user-images.githubusercontent.com/74195719/117966552-07f10d80-b2f2-11eb-888f-3b1d07052116.png) Thanks for stopping by! ![icons8-cookies](https://user-images.githubusercontent.com/74195719/118022600-85d10b00-b32a-11eb-9bd1-855e73d48f6e.png)
+
