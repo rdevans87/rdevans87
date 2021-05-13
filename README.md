@@ -8,7 +8,7 @@
 
 Screenwriter turned <i>Spaghetti-coder</i>  exploring the wide world of web development. I'm feeling a lot like how I would imagine `Neo` must have felt right after he shoved that `RED` pill down his throat. I've barely even begun to scratch the surface of all there is to know about web development, but I intend to bring the same amount of passion and creativity to programming as I do screenwriting. 
 
-Please continue to check back periodically as I continue to improve my skills and expand my respository!
+Please continue to check back periodically as I continue to improve my skills and expand my repository!
 
 # ![icons8-morpheus](https://user-images.githubusercontent.com/74195719/117871205-1ea05180-b26b-11eb-9567-b58bdf0a5613.png) Skills ![icons8-trinity](https://user-images.githubusercontent.com/74195719/117963695-b2673180-b2ee-11eb-91d0-b2c9f8b9f659.png)
 
