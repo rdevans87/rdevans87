@@ -10,7 +10,7 @@ Screenwriter turned <i>Spaghetti-coder</i>  exploring the wide world of web deve
 
 Please continue to check back periodically as I continue to improve my skills and expand my repository!
 
-# ![icons8-morpheus](https://user-images.githubusercontent.com/74195719/117871205-1ea05180-b26b-11eb-9567-b58bdf0a5613.png) Skills ![icons8-trinity](https://user-images.githubusercontent.com/74195719/117963695-b2673180-b2ee-11eb-91d0-b2c9f8b9f659.png)
+# ![icons8-morpheus](https://user-images.githubusercontent.com/74195719/117871205-1ea05180-b26b-11eb-9567-b58bdf0a5613.png) My Skills ![icons8-trinity](https://user-images.githubusercontent.com/74195719/117963695-b2673180-b2ee-11eb-91d0-b2c9f8b9f659.png)
 
 Graduate of The Ohio State University's `Full-Stack` Coding Bootcamp, open to independent projects, collaborative opportunities, and contract-to-hire positions. Knowledge of `front-end` languages and third-party frameworks for building mobile responsive web applications. 
 
