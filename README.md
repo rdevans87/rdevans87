@@ -36,7 +36,7 @@ Check out my live site on GitHub pages: [My Professional Portfolio](https://rdev
 ![icons8-linkedin](https://user-images.githubusercontent.com/74195719/117971147-7edcd500-b2f7-11eb-85c4-29e8daa6d86e.png) Connect with me on [LinkedIn](https://www.linkedin.com/in/ryanevanscreative/)
 
 
-![icons8-facebook](https://user-images.githubusercontent.com/74195719/117971909-7638ce80-b2f8-11eb-8c49-ac386f85900a.png)Send me a friend request on [Facebook](https://www.linkedin.com/in/ryanevanscreative/)
+![icons8-facebook](https://user-images.githubusercontent.com/74195719/117971909-7638ce80-b2f8-11eb-8c49-ac386f85900a.png)Send me a friend request on [Facebook](https://www.facebook.com/ryan.evans.50115)
 
 
 
