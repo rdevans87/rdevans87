@@ -6,7 +6,7 @@
 
 # ![icons8-agent_smith](https://user-images.githubusercontent.com/74195719/117968838-a2525080-b2f4-11eb-820d-3a714974d9e0.png) About Me ![icons8-neo](https://user-images.githubusercontent.com/74195719/117961754-78952b80-b2ec-11eb-89fa-ede9e752d529.png)                              
 
-Screenwriter turned <i>Spaghetti-coder</i>  exploring the wide world of web development. I'm feeling a lot like how I would imagine `Neo` must have felt right after he shoved that `RED` pill down his throat. I've barely even scratched the surface of all there is to know about web development, but I intend to bring the same amount of passion and creativity to programming as I do screenwriting. 
+Screenwriter turned <i>Spaghetti-coder</i>  exploring the wide world of web development. I'm feeling a lot like how I would imagine `Neo` must have felt right after he swallowed the `RED` pill. I've barely even scratched the surface of all there is to know about web development, but I intend to bring the same amount of passion and creativity to programming as I do screenwriting. 
 
 Please continue to check back periodically as I continue to improve my skills and expand my repository!
 
@@ -15,7 +15,7 @@ Please continue to check back periodically as I continue to improve my skills an
 
 
 
-# ![icons8-morpheus](https://user-images.githubusercontent.com/74195719/121127931-8ad58d00-c7f8-11eb-93c8-bc015afbd050.png)) Contact Me ![icons8-trinity](https://user-images.githubusercontent.com/74195719/121127977-9de85d00-c7f8-11eb-87a8-e1590ad38f5d.png)
+# ![icons8-morpheus](https://user-images.githubusercontent.com/74195719/121128195-02a3b780-c7f9-11eb-87c4-5cebb87f4a5a.png) Contact Me ![icons8-trinity](https://user-images.githubusercontent.com/74195719/121128130-e30c8f00-c7f8-11eb-9b5e-9d13fc0001e7.png)
 
 
 
