@@ -15,10 +15,10 @@ Please continue to check back periodically as I continue to improve my skills an
 
 
 <a href="https://github.com/rdevans87/github-readme-stats">
-  <img align="center" src="![rdevans87's GitHub stats](https://github-readmestats.vercel.app/api/username=rdevans87&show_icons=true&theme=cobalt />
+  <img align="center" src="https://github-readmestats.vercel.app/api/username=rdevans87&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/rdevans87/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdevans87&theme=dracula />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdevans87&layout=compact&theme=dracula" />
 </a>
 
 
