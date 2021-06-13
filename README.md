@@ -17,11 +17,11 @@ Please continue to check back periodically as I continue to improve my skills an
 <br>
 
 <a href="https://github.com/rdevans87/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdevans87&show_icons=true&layout=compac&theme=cobalt" width="407px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdevans87&show_icons=true&layout=compac&theme=cobalt" width="376px"  />
 </a>
 
 <a href="https://github.com/rdevans87/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdevans87&layout=compact&theme=tokyonight" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdevans87&layout=compact&theme=tokyonight" width="370px"/>
 </a>
 
 
