@@ -37,5 +37,3 @@ Check out [My Work](https://rdevans87.github.io/RyanEvans_ProfessionalPortfolio/
 
 
 ### ![icons8-oracle](https://user-images.githubusercontent.com/74195719/117966552-07f10d80-b2f2-11eb-888f-3b1d07052116.png) Thanks for stopping by! ![icons8-cookies](https://user-images.githubusercontent.com/74195719/118022600-85d10b00-b32a-11eb-9bd1-855e73d48f6e.png)
-
- 
