@@ -17,7 +17,7 @@ Please continue to check back periodically as I continue to improve my skills an
 <br>
 
 <a href="https://github.com/rdevans87/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdevans87&show_icons=true&layout=compac&theme=cobalt&hide=issues" width="412px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdevans87&show_icons=true&layout=compac&theme=cobalt&hide=issues" width="415px"  />
 </a>
 
 <a href="https://github.com/rdevans87/github-readme-stats">
