@@ -32,7 +32,7 @@ Please continue to check back periodically as I continue to improve my skills an
 
 
 ![icons8-github](https://user-images.githubusercontent.com/74195719/117971768-4c7fa780-b2f8-11eb-96ad-c8834896f091.png)
-Check out [My Work](https://rdevans87.github.io/RyanEvans_ProfessionalPortfolio/) | ![icons8-linkedin](https://user-images.githubusercontent.com/74195719/117971147-7edcd500-b2f7-11eb-85c4-29e8daa6d86e.png) Lets connect [LinkedIn](https://www.linkedin.com/in/ryanevanscreative/) | ![icons8-facebook](https://user-images.githubusercontent.com/74195719/117971909-7638ce80-b2f8-11eb-8c49-ac386f85900a.png) Friend me [Facebook](https://www.facebook.com/ryan.evans.50115)
+Check out [My Work](https://www.ryanevanscodes.com) | ![icons8-linkedin](https://user-images.githubusercontent.com/74195719/117971147-7edcd500-b2f7-11eb-85c4-29e8daa6d86e.png) Lets connect [LinkedIn](https://www.linkedin.com/in/ryanevanscreative/) | ![icons8-facebook](https://user-images.githubusercontent.com/74195719/117971909-7638ce80-b2f8-11eb-8c49-ac386f85900a.png) Friend me [Facebook](https://www.facebook.com/ryan.evans.50115)
 
 
 
