@@ -3,7 +3,7 @@
 ![icons8-autodesk_revit](https://user-images.githubusercontent.com/74195719/159436798-b790e7f1-4d37-4ce2-97ce-370b0de4b15f.png)![icons8-e](https://user-images.githubusercontent.com/74195719/159438133-acd20147-16a0-4b1e-aaf6-efde5d30c93b.png)![icons8-p](https://user-images.githubusercontent.com/74195719/159437766-c876a8bf-3bf3-4ade-96c8-7bca699b71fe.png)![icons8-o](https://user-images.githubusercontent.com/74195719/160308206-20bb3d03-c5b8-4192-af80-3d5f53828731.png)![icons8-s](https://user-images.githubusercontent.com/74195719/160308354-4bddd1ad-5385-42c1-90e1-ee86ec4962e1.png)![icons8-i](https://user-images.githubusercontent.com/74195719/160308375-9e1c6e26-7736-4126-a5a7-9cc77dfc6dd8.png)![icons8-t](https://user-images.githubusercontent.com/74195719/160308422-7daa850c-93f8-4591-acb0-6cc67fd2512f.png)![icons8-o](https://user-images.githubusercontent.com/74195719/160308461-3fcff183-d918-4eea-8548-ca503e32a31a.png)![icons8-r](https://user-images.githubusercontent.com/74195719/160308495-5d01c23a-e4ac-400a-8e00-941c2cd9963f.png)![icons8-yammer](https://user-images.githubusercontent.com/74195719/160308550-ef7f5e5c-303a-4780-b587-d9cab42e4273.png)![icons8-film_reel](https://user-images.githubusercontent.com/74195719/160308107-fdb9e6b1-e152-48b3-99a5-45c7140924cb.png)
 
 
-## ABOUT ME ![icons8-typewriter_with_paper](https://user-images.githubusercontent.com/74195719/159443606-42b247e4-dbe3-4c00-ac17-cbe8e062dbe5.png)<br>
+## ABOUT![icons8-typewriter_with_paper](https://user-images.githubusercontent.com/74195719/159443606-42b247e4-dbe3-4c00-ac17-cbe8e062dbe5.png)<br>
 Screenwriter turned <i>Spaghetti-coder</i> with a passion for technology and entertainment. I've barely scratched the surface of all there is to know about web development, but I intend to bring the same amount of passion and creativity to my code as I do screenwriting. Please continue to check back periodically as I continue to improve my skills and expand my repository!
 
 ## SKILLS![icons8-cv](https://user-images.githubusercontent.com/74195719/159444100-39465083-bb0e-47a0-907d-2d5f4db52ded.png) <br>
@@ -12,7 +12,7 @@ Professional certifications in Full Stack Web Development, Project Management, A
 ![icons8-html_5](https://user-images.githubusercontent.com/74195719/159447717-960fb1e0-d64d-4c90-b842-a414104fb43f.png)![icons8-javascript](https://user-images.githubusercontent.com/74195719/159447973-263bffa9-b866-406a-bba0-570917b3b0d3.png) ![icons8-react_native](https://user-images.githubusercontent.com/74195719/159448103-3ef6efa7-9366-49a2-9f86-38ba9e25ed2d.png)![icons8-mysql](https://user-images.githubusercontent.com/74195719/159447857-3a767a48-af47-45b0-b10b-5b2df8f91656.png)![icons8-json](https://user-images.githubusercontent.com/74195719/159448327-89642364-571b-4799-b9fd-45829f8a644c.png)![icons8-api](https://user-images.githubusercontent.com/74195719/159448047-9745e0fd-46aa-497c-88e4-faab17b49274.png)![icons8-visual_studio](https://user-images.githubusercontent.com/74195719/159443002-4ebf98f3-f5e0-4b3e-9219-5c029437114c.png)![icons8-apple_logo](https://user-images.githubusercontent.com/74195719/159448552-c3c6c82c-0439-4465-9534-8653f3a1415d.png)![icons8-git](https://user-images.githubusercontent.com/74195719/160092997-bb419db9-5329-4dae-ab60-950ab95c5d53.png)
 
 
-## STATS ![icons8-inspect_code](https://user-images.githubusercontent.com/74195719/159449938-c00d2f77-8052-45cc-a17d-b288c558919d.png)
+## STATS![icons8-inspect_code](https://user-images.githubusercontent.com/74195719/159449938-c00d2f77-8052-45cc-a17d-b288c558919d.png)
 <br>
 <a href="https://github.com/rdevans87/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdevans87&show_icons=true&layout=compac&theme=cobalt&hide=issues" width="350px" left-margin="30px"/>
@@ -21,7 +21,7 @@ Professional certifications in Full Stack Web Development, Project Management, A
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdevans87&layout=compact&theme=tokyonight" width="300px"/>
 </a>
 
-## SOCIAL ![icons8-natural_user_interface_2](https://user-images.githubusercontent.com/74195719/159451075-ad3a8bee-1ecf-4c66-b6cc-2e4230484f4e.png) <br>
+## SOCIAL![icons8-natural_user_interface_2](https://user-images.githubusercontent.com/74195719/159451075-ad3a8bee-1ecf-4c66-b6cc-2e4230484f4e.png) <br>
 
 ![icons8-github](https://user-images.githubusercontent.com/74195719/159452216-87a2a1e9-236b-4e39-832a-0330832694a2.png) Check out [My Code](https://www.ryanevanscodes.com) |![icons8-linkedin_circled](https://user-images.githubusercontent.com/74195719/159452162-f0137f3d-e51f-4bc5-800e-8d55cfe8d12f.png) Lets connect [LinkedIn](https://www.linkedin.com/in/ryanevanscreative/) | ![icons8-facebook](https://user-images.githubusercontent.com/74195719/159452072-b4f920fd-9ace-4a45-b291-58286a497a87.png) Friend me [Facebook](https://www.facebook.com/ryan.evans.50115) | ![icons8-tiktok](https://user-images.githubusercontent.com/74195719/160093278-c4c8504a-8d23-4162-97d6-633e1fa3cf91.png)Follow me [TikTok](https://www.tiktok.com/@edgarfrog87) | ![icons8-youtube_squared](https://user-images.githubusercontent.com/74195719/160093726-de2930a1-f057-4014-b676-87bf5eed08ac.png) Subscribe to [My channel](https://www.youtube.com/channel/UC94nBic_8dRoImMpQ2_Gowg) 
 <br>
